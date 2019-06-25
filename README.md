@@ -22,9 +22,7 @@ The data was collapsed in order to remove duplicate data.
 
 Since the data was collected over multiple time points, a weighted average was calculated for each participant and each of the 5 self-rated attributes. Also, mean imputations were used for missing data. 
 
-## Next steps
-
-Visualizations, modeling, exploratory analysis:
+## Visualizations, modeling, exploratory analysis, and conditional suggestions in the code:
 Programming tools used: python Pandas, Matplotlib, sci-kit learn, seaborn, and R. 
 
 The prediction model was stored and flask was used to call in the model and an interactive form for the user (to answer these predictive questions) was rendered to an html template. If the user does get a "yes" for a match at the speed dating event, then they will be redirected to an informational next steps page. If the user receives a "no match" prediction, then depending on their specific characteristics, they will be redirected to a suggestions page tailored for them in order to continue their search. 
