@@ -1,11 +1,5 @@
 # Dating Prediction
 
-Basic front web page link: https://kristibischoff.github.io/DatingPrediction/templates/index
-
-Python: https://kristibischoff.github.io/DatingPrediction/templates/Add_Analysis1
-
-R: https://kristibischoff.github.io/DatingPrediction/templates/Add_Analysis1
-
 ## Predict whether you will be a match with someone at a speed dating event.
 
 Dating is mostly over the web anymore, but some people would like to meet "organically." While dating is not transparently the most important thing, many singles search for "the one" for many years. Finding someone to relate with is an important aspect of the human condition, and that is perhaps why the dating app world is so profitable and many people participate. The purpose of this project was to begin with this inspiration to create an interactive match prediction dashboard from a speed dating data set (retrieved from Kaggle.) Additionally, in order to draw clients to use this product, it was advantageous to add suggestion algorithms regardless of the outcome (having a match at the event or not.) The suggestion algorithms will provide next steps to the user of the product. 
