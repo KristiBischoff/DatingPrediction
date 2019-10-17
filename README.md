@@ -1,6 +1,6 @@
 # Dating Prediction
 
-## Python Summary Analysis: https://kristibischoff.github.io/DatingPrediction/templates/Add_Analysis1
+### Python Summary Analysis With a Sample HTML/CSS/Bootstrap Dashboard (sample website analysis page): https://kristibischoff.github.io/DatingPrediction/templates/Add_Analysis1
 
 ## Predict whether you will be a match with someone at a speed dating event.
 
